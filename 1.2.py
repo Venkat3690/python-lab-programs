@@ -1,0 +1,7 @@
+num1=int(input('enter 1st number:'))
+num2=int(input('enter 2nd number:'))
+num3=int(input('enter 3rd number:'))
+total=int(num1+num2+num3)
+print('total=',total)
+average=float((num1+num2+num3)/3)
+print('average=',average)
